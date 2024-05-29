@@ -37,3 +37,12 @@ The Issue Tracker is a Node.js application designed to help manage and track iss
 - Node.js
 - Express.js
 - MongoDB (with Mongoose for ORM)
+
+
+![Screenshot (60)](https://github.com/PratikshaKarad/Issue-tracker/assets/111880908/093c2884-9f72-4806-9fe9-c646edcf4f75)
+
+
+![Screenshot (61)](https://github.com/PratikshaKarad/Issue-tracker/assets/111880908/6821f9d8-8ac3-46ec-ae7b-615aafa86cf1)
+
+
+![Screenshot (63)](https://github.com/PratikshaKarad/Issue-tracker/assets/111880908/cae1ff3a-d246-4fdc-8de1-37a21fb84030)
